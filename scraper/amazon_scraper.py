@@ -1,0 +1,1 @@
+print("Amazon scraper initialized")

@@ -1,0 +1,44 @@
+[
+    {
+        "platform": "Amazon",
+        "name": "Samsung Galaxy S21",
+        "price": "₹45,999",
+        "link": "https://amazon.in/samsung-galaxy-s21"
+    },
+    {
+        "platform": "Amazon",
+        "name": "iPhone 13",
+        "price": "₹60,999",
+        "link": "https://amazon.in/iphone-13"
+    },
+    {
+        "platform": "Amazon",
+        "name": "OnePlus 11",
+        "price": "₹57,499",
+        "link": "https://amazon.in/oneplus-11"
+    },
+    {
+        "platform": "Amazon",
+        "name": "Redmi Note 12",
+        "price": "₹17,999",
+        "link": "https://amazon.in/redmi-note-12"
+    },
+    {
+        "platform": "Amazon",
+        "name": "Realme GT Neo 3",
+        "price": "₹36,999",
+        "link": "https://amazon.in/realme-gt-neo-3"
+    },
+    {
+        "platform": "Amazon",
+        "name": "Vivo V29",
+        "price": "₹32,999",
+        "link": "https://amazon.in/vivo-v29"
+    },
+    {
+        "platform": "Amazon",
+        "name": "Nothing Phone 2",
+        "price": "₹44,999",
+        "link": "https://amazon.in/nothing-phone-2"
+    }
+]

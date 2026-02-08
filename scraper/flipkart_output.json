@@ -1,0 +1,44 @@
+[
+    {
+        "platform": "Flipkart",
+        "name": "Samsung Galaxy S21",
+        "price": "₹44,999",
+        "link": "https://flipkart.com/samsung-galaxy-s21"
+    },
+    {
+        "platform": "Flipkart",
+        "name": "iPhone 13",
+        "price": "₹59,999",
+        "link": "https://flipkart.com/iphone-13"
+    },
+    {
+        "platform": "Flipkart",
+        "name": "OnePlus 11",
+        "price": "₹56,999",
+        "link": "https://flipkart.com/oneplus-11"
+    },
+    {
+        "platform": "Flipkart",
+        "name": "Redmi Note 12",
+        "price": "₹16,999",
+        "link": "https://flipkart.com/redmi-note-12"
+    },
+    {
+        "platform": "Flipkart",
+        "name": "Realme GT Neo 3",
+        "price": "₹35,999",
+        "link": "https://flipkart.com/realme-gt-neo-3"
+    },
+    {
+        "platform": "Flipkart",
+        "name": "Vivo V29",
+        "price": "₹31,999",
+        "link": "https://flipkart.com/vivo-v29"
+    },
+    {
+        "platform": "Flipkart",
+        "name": "Nothing Phone 2",
+        "price": "₹43,999",
+        "link": "https://flipkart.com/nothing-phone-2"
+    }
+]
